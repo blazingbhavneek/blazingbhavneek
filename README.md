@@ -9,7 +9,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavneek-singh/) or dr
 More about me at :link: [my webpage!](https://blazingbhavneek.github.io)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blazingbhavneek&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="blazingbhavneek" width="240"  height="320"/> <img src="https://github-readme-stats.vercel.app/api?username=blazingbhavneek&show_icons=true&locale=en&theme=highcontrast" alt="blazingbhavneek" width="320"  height="320"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blazingbhavneek&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="blazingbhavneek" width="240"  height="320"/> 
 </p>
 
 <!-- ### GitStats:
