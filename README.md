@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Feel free to explore the repositories and connect with me! 🌈
+Feel free to explore the repositories and connect with me!
